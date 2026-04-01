@@ -160,8 +160,8 @@ No hay servidor, no hay base de datos, no hay API de terceros. Frontend HTML/CSS
 
 ## 8. URL pública y repositorio
 
-- **Demo en vivo:** https://[pendiente-github-pages]
-- **Repositorio:** https://github.com/[pendiente]
+- **Demo en vivo:** https://huntsman1756.github.io/madrid-barrio-a-barrio/
+- **Repositorio:** https://github.com/Huntsman1756/madrid-barrio-a-barrio
 - **Datos originales:** https://datos.madrid.es
 
 Dos cosas pendientes antes de la entrega del 4 de mayo:

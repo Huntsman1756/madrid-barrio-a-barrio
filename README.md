@@ -10,7 +10,7 @@ La diferencia frente a otros comparadores: la fórmula está escrita en pantalla
 pesos los elige la persona usuaria, cada criterio cita su fuente exacta, y los límites
 metodológicos aparecen en la ficha del barrio, no solo en la documentación.
 
-→ **Demo:** https://[pendiente-github-pages]  
+→ **Demo:** https://huntsman1756.github.io/madrid-barrio-a-barrio/  
 → **Datos:** https://datos.madrid.es · Licencia CC BY 4.0
 
 ---
