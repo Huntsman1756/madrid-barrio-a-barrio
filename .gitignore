@@ -1,0 +1,4 @@
+data/raw/
+data/processed/column_report.txt
+__pycache__/
+*.pyc
